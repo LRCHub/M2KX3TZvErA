@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君の彼氏になりたい。",
+  "base_artist": "Snow Man",
+  "createdAt": "2026-03-10T18:33:43.336821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の彼氏になりたい。",
+      "artist": "Snow Man",
+      "has_synced": true,
+      "path": "select/01_君の彼氏になりたい。_Snow_Man.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の彼氏になりたい。 (Instrumental)",
+      "artist": "Snow Man",
+      "has_synced": true,
+      "path": "select/02_君の彼氏になりたい。_(Instrumental)_Snow_Man.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の彼氏になりたい。",
+      "artist": "Snow Man",
+      "has_synced": false,
+      "path": "select/pl_01_君の彼氏になりたい。_Snow_Man.txt"
+    }
+  ]
+}
